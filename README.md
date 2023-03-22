@@ -1,2 +1,2 @@
 # Base64Image
-a tool to translate Base64& image
+a tool to translate Base64 & image
